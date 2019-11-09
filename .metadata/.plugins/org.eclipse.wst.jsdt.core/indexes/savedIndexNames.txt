@@ -1,0 +1,12 @@
+INDEX VERSION 1.4+G:\Aparna\dernier-cri\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+3708076240.index
+1259710942.index
+773826926.index
+853002471.index
+286455251.index
+1431556726.index
+3799919155.index
+1676041284.index
+2601419427.index
+654701893.index
+1054743068.index
